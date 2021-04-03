@@ -126,9 +126,13 @@ b) Categorical variables, include a frequency and relative frequency table.
 
      When one of two variables are related to the other in some way, there is a connection between them. The best way to start is with a scatterplot. A scatterplot (or scatter diagram) is a graph with a horizontal x-axis and a vertical y-axis that depicts paired (x, y) sample results. Each (x, y) pair is plotted separately as a single point.
     
-     ** Hypothesis test on the correlation**
+    
      
-     ![image](https://user-images.githubusercontent.com/81826902/113467740-9efcb700-9462-11eb-9c2b-ec510fcf1451.png)
+     
+   ** Hypothesis test on the correlation**
+     
+    
+  ![image](https://user-images.githubusercontent.com/81826902/113467740-9efcb700-9462-11eb-9c2b-ec510fcf1451.png)
 
          
   
