@@ -153,7 +153,7 @@ b) Categorical variables, include a frequency and relative frequency table.
 
         I have downloaded the england-premier-league-matches-2018-to-2019-stats.csv file using the link “https://footystats.org/download-stats-csv” and sorted data by  	four rows (date, goal_count, goals_at_half_time and stadium.
  
-       In this file date column denotes the date of the match, goal_count column denotes the number of goal, goals_at_half_time column denotes the goal before half time 	and stadium column denotes where the match played.
+       In this file date column is the indicator of date of the match, goal_count column is the pointer of goal, goals_at_half_time column is the index to reveal the goal before the half time of the match and lastly stadium column is the displayer of the place where the match played.
 
     (b) Include all items requested above. Include graphs and text about each.
 
@@ -163,5 +163,5 @@ b) Categorical variables, include a frequency and relative frequency table.
 
      Answer: 
 
-    This file contains the stadium and the number of goals stats. It contains more in-depth data. From the statistical analysis I can conclude the history of the stadium 	and the highest goal in which stadium. Most interesting part is from the data stats I can choose top 5 stadium for future league purpose and the importance of the  	stadium.**
+    This file contains the stadium and the number of goals stats. It contains more in-depth data. From the statistical analysis I can conclude the history of the stadium 	and the highest goal in which stadium. Most interesting part is from the data stats I can choose top 5 stadium for future league purpose and the importance of the  	stadium.
 
