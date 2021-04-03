@@ -104,8 +104,6 @@ H0: μ1 – μ2 = 0 and H1: μ1 – μ2 > 0 are the hypotheses for this test. We
 
 **Preform regression**
 
-**(a) For two of the quantitative variables provide a scatterplot, compute the correlation, and fit a
-regression. Comment on the appropriateness of doing such a regression including the strength.**
 
 ![image](https://user-images.githubusercontent.com/81826902/113465532-59d08900-9452-11eb-8eeb-9bfac0433dd1.png)
 
