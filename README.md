@@ -108,10 +108,15 @@ b) Categorical variables, include a frequency and relative frequency table.
 
        H0: μ1 – μ2 = 0 and H1: μ1 – μ2 > 0 are the hypotheses for this test. We reject H0 and accept H1 since the P-value is smaller significance amount 1.293436.
          **
-      **Preform regression**
+	 
+	 
+      
+   **Preform regression**
 
 
 ![image](https://user-images.githubusercontent.com/81826902/113465532-59d08900-9452-11eb-8eeb-9bfac0433dd1.png)
+
+    ** slope of the regression**
 
 ![image](https://user-images.githubusercontent.com/81826902/113465770-56d69800-9454-11eb-8ff5-abf3e63e3f3a.png)
 
