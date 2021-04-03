@@ -40,9 +40,12 @@ Mean, standard deviation, summary
 
                   ** Is the distribution normal, symmetric, skewed, or some other shape?    No**
 
-                 b) Categorical variables, include a frequency and relative frequency table.
 
-                 Answer:**
+
+                 
+b) Categorical variables, include a frequency and relative frequency table.
+
+   Answer:**
 
 ![image](https://user-images.githubusercontent.com/81826902/113459398-0733a480-9433-11eb-88bd-32af7ca6f46e.png)
 
@@ -82,7 +85,10 @@ Mean, standard deviation, summary
 
        H0: μ = m0 and H1: μ = m1 are the hypotheses for this test and the P-value is the significance amount 2.818533.**
 
-      (b) Using the appropriate statistical test, preform a hypothesis test comparing two means. Make certain to properly state your null and alternative hypothesis.           State your conclusion in the correct statistical language.
+      
+      
+      
+  (b) Using the appropriate statistical test, preform a hypothesis test comparing two means. Make certain to properly state your null and alternative hypothesis.           State your conclusion in the correct statistical language.
 
 ![image](https://user-images.githubusercontent.com/81826902/113459658-bf614d00-9433-11eb-9c53-b07842a38b21.png)
 
@@ -114,15 +120,27 @@ Mean, standard deviation, summary
      **The scatter diagram plots two sets of numerical data, one on each axis, to see if there's a correlation between them. The points will fall into a line or curve if the variables are associated.
 
      When one of two variables are related to the other in some way, there is a connection between them. The best way to start is with a scatterplot. A scatterplot (or scatter diagram) is a graph with a horizontal x-axis and a vertical y-axis that depicts paired (x, y) sample results. Each (x, y) pair is plotted separately as a single point.
+     
+     
+  
+ **Use categorical variable to repeat the regression on a subset of data**
+     
+ ![image](https://user-images.githubusercontent.com/81826902/113467047-124ffa00-945e-11eb-82bb-458c35b2dd3a.png)
+
+ 
+    ** Multiple regression using an indicator for the categorical variable**
+
+![image](https://user-images.githubusercontent.com/81826902/113467040-06fcce80-945e-11eb-93c0-b731a374ca39.png)
+
 
      4
      (a) Introduce your data set including a reference to where it can be found. Describe all relevant variables that you will use in your analysis.
 
      Answer:
 
-        I have downloaded the england-premier-league-matches-2018-to-2019-stats.csv file using the link “https://footystats.org/download-stats-csv” and sorted data by four rows (date, goal_count, goals_at_half_time and stadium.
+        I have downloaded the england-premier-league-matches-2018-to-2019-stats.csv file using the link “https://footystats.org/download-stats-csv” and sorted data by  	four rows (date, goal_count, goals_at_half_time and stadium.
  
-       In this file date column denotes the date of the match, goal_count column denotes the number of goal, goals_at_half_time column denotes the goal before half time and stadium column denotes where the match played.
+       In this file date column denotes the date of the match, goal_count column denotes the number of goal, goals_at_half_time column denotes the goal before half time 	and stadium column denotes where the match played.
 
     (b) Include all items requested above. Include graphs and text about each.
 
@@ -132,5 +150,5 @@ Mean, standard deviation, summary
 
      Answer: 
 
-    This file contains the stadium and the number of goals stats. It contains more in-depth data. From the statistical analysis I can conclude the history of the stadium and the highest goal in which stadium. Most interesting part is from the data stats I can choose top 5 stadium for future league purpose and the importance of the  stadium.**
+    This file contains the stadium and the number of goals stats. It contains more in-depth data. From the statistical analysis I can conclude the history of the stadium 	and the highest goal in which stadium. Most interesting part is from the data stats I can choose top 5 stadium for future league purpose and the importance of the  	stadium.**
 
